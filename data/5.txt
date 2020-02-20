@@ -1,0 +1,11 @@
+Westerns;8;{"breakfast":800, "lunch":1100}
+*
+Weekdays: 0800 to 2200
+Weekends: 0900 to 2100
+PH: Closed
+*
+Pasta;6;1100;2200;[1,2,3,4,5,6,7];1
+Chicken Wrap;4;1100;2200;[1,2,3,4,5,6,7];2
+Lasagna;5;1100;2200;[1,2,3,4,5,6,7];3
+Soup of the Day;2;1100;2200;[1,2,3,4,5,6,7];4
+Grilled tomato;3;1100;2200;[1,2,3,4,5,6,7];5

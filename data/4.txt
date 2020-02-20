@@ -1,0 +1,11 @@
+Chicken Rice;4;{"breakfast":800, "lunch":1100}
+*
+Weekdays: 0800 to 2200
+Weekends: 0900 to 2100
+PH: Closed
+*
+Chicken Leg;5;1100;2200;[1,2,3,4,5,6,7];1
+Char Siew;4;1100;2200;[1,2,3,4,5,6,7];2
+Egg;1;1100;2200;[1,2,3,4,5,6,7];3
+Chicken Wing;5;1100;2200;[1,2,3,4,5,6,7];4
+Chicken Noodles;4;1100;2200;[1,2,3,4,5,6,7];5

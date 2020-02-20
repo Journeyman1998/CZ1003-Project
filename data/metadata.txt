@@ -1,0 +1,7 @@
+root=data\
+length=5
+1-McDonalds
+2-Japanese
+3-BBQ
+4-Chichen Rice
+5-Westerns

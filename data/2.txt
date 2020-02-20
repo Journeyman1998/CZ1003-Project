@@ -1,0 +1,12 @@
+Japanese;5;{"breakfast":700, "lunch":1100}
+*
+Mon - Wed, Fri: 0800 to 2200
+Thurs: 1000 to 2100
+Weekends: 0900 to 2100
+PH: Closed
+*
+Saba Fish Meal;6;1100;2200;[1,2,3,4,5,6,7];1
+Yakitori Meal;5;1100;2200;[1,2,3,4,5,6,7];2
+Curry Chicken Don;3;1100;2200;[1,2,3,4,5,6,7];3
+Handroll;2;800;1100;[1,2,3,4,5,6,7];4
+Assorted Sushi;3;900;1800;[1,2,3,4,5,6,7];5
