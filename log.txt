@@ -1,0 +1,135 @@
+*Program running*
+data\1.txt not found
+data\2.txt not found
+*Program running*
+data\1.txt not found
+data\2.txt not found
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+<class 'Stalls.StallsWindow'> is not programmed to pass information!
+*Program running*
+<class 'Stalls.StallsWindow'> is not programmed to pass information!
+<class 'Home.MainWindow'> is not programmed to receive information!
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+<class 'Stalls.StallsWindow'> is not programmed to pass information!
+<class 'Home.MainWindow'> is not programmed to receive information!
+*Program running*
+*Program running*
+*Program running*
+<class 'Stalls.StallsWindow'> is not programmed to pass information!
+<class 'Home.MainWindow'> is not programmed to receive information!
+*Program running*
+<class 'Stalls.StallsWindow'> is not programmed to pass information!
+<class 'Home.MainWindow'> is not programmed to receive information!
+<class 'Stalls.StallsWindow'> is not programmed to pass information!
+<class 'Home.MainWindow'> is not programmed to receive information!
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*
+*Program running*

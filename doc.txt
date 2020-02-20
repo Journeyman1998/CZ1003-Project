@@ -1,0 +1,21 @@
+Data: Reads and processes stall data files. Returns stall data (dict) and operating hours (dict)
+
+DataManager: Stores data. Helper functions for GUI.
+
+DateTimeInput: Allows user to input date and time
+
+Home: Main page for program
+
+Main: Entry point for program
+
+OperatingHours: GUI for displaying operating hours
+
+Stalls: GUI for displaying stalls open and menu
+
+Stylesheet: Stores stylesheets for GUI
+
+Time: Utility module for time manipulation
+
+WindowCreator: Creates windows (for GUI). Links windows together (Btn-click opens or closes a window)
+
+WindowManager: Keeps track of which window is open. Handles data propagation when a window is closed
